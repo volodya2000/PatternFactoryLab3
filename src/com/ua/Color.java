@@ -1,4 +1,5 @@
 package com.ua;
 
-public interface Color {
+public enum Color {
+    BLACK,WHITE
 }
